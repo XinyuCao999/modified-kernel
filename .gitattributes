@@ -1,0 +1,5 @@
+# plotly-generated plots: exclude from GitHub language stats, collapse in diffs
+*.html linguist-generated=true
+
+# Jupyter notebooks: exclude from language stats (delete this line to count them)
+*.ipynb linguist-generated=true
