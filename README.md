@@ -6,6 +6,7 @@ This project implements a modified kernel GP using **PyTorch** and integrates **
 
 The main modification of the method is based on the part **“GPyTorch”**. This modular structure organizes the code efficiently, with each component playing a clear role in the model's training and optimization.
 
+
 <img width="1002" height="670" alt="image" src="https://github.com/user-attachments/assets/e10941da-695b-40c1-84cf-eeb759dddac9" />
 
 
